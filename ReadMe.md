@@ -12,6 +12,8 @@ Passionate about crafting innovative solutions across web and mobile platforms. 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![FireBase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ##
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -51,9 +53,10 @@ Passionate about crafting innovative solutions across web and mobile platforms. 
 - Quality time with friends and family
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tamizhselvangt&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tamizhselvangt&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamizhselvangt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=tamizhselvangt&theme=dark&hide_border=false) &nbsp;&nbsp;&nbsp; ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamizhselvangt&theme=react-dark&bg_color=20232a&hide_border=false)
+
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamizhselvangt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
