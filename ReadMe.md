@@ -1,9 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dank+Mono&size=40&duration=2000&pause=500&multiline=true&width=535&height=150&lines=%24whoami;Tamizhselvan+Gurusamy)](https://git.io/typing-svg)
-
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dank+Mono&size=40&duration=2000&pause=500&multiline=true&width=535&height=100&lines=%24whoami;Tamizhselvan+Gurusamy)](https://git.io/typing-svg)
 ## 💻 Emerging Software Engineer | Full-Stack Developer | Mobile App Enthusiast
 
 Passionate about crafting innovative solutions across web and mobile platforms. Always eager to learn and contribute to exciting projects!
@@ -24,6 +20,10 @@ Passionate about crafting innovative solutions across web and mobile platforms. 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
+
+
+##
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
 ##
