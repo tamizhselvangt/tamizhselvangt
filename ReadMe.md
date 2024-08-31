@@ -1,4 +1,8 @@
-# 👋 Hello, I'm Tamizhselvan
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dank+Mono&size=40&pause=1000&multiline=true&width=435&lines=%24whoami;Tamizhselvan+Gurusamy)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Dank+Mono&size=40&pause=1000&multiline=true&width=435&lines=Tamizhselvan+Gurusamy)](https://git.io/typing-svg)
+
 
 ## 💻 Emerging Software Engineer | Full-Stack Developer | Mobile App Enthusiast
 
