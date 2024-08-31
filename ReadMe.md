@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Tamizhselvan
+# 👋 Hi, I'm Tamizhselvan
 
 ## 💻 Emerging Software Engineer | Full-Stack Developer | Mobile App Enthusiast
 
