@@ -1,6 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dank+Mono&size=40&duration=2000&pause=500&multiline=true&width=535&height=100&lines=%24whoami;Tamizhselvan+Gurusamy)](https://git.io/typing-svg)
-## 💻 Emerging Software Engineer | Full-Stack Developer | Mobile App Enthusiast
+## 💻 Software Engineer | Full-Stack  Developer | Web & Mobile
 
 Passionate about crafting innovative solutions across web and mobile platforms. Always eager to learn and contribute to exciting projects!
 
