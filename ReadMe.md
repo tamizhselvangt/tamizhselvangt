@@ -52,12 +52,6 @@ Passionate about crafting innovative solutions across web and mobile platforms. 
 - Fitness buff
 - Quality time with friends and family
 
-## 📊 GitHub Stats:
- ![](https://github-readme-streak-stats.herokuapp.com/?user=tamizhselvangt&theme=dark&hide_border=false) &nbsp;&nbsp;&nbsp; ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamizhselvangt&theme=react-dark&bg_color=20232a&hide_border=false)
-
-
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tamizhselvangt&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
